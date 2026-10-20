@@ -1,0 +1,6 @@
+build/
+output/
+*.exe
+.vscode/
+__pycache__/
+*.pyc
